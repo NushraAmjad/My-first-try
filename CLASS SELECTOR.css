@@ -1,0 +1,9 @@
+.h2ClassSelector{
+color: pink;
+background-color: black;
+border: 3px solid blue; 
+width: 100px;
+height: 50px;
+border-radius: 80%;
+
+}
